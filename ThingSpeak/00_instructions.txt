@@ -1,0 +1,7 @@
+https://alexandre-charr.medium.com/raspberry-pi-connected-iot-weather-station-with-thingspeak-94db24c5c4b2
+
+https://thingspeak.mathworks.com/channels/285504
+
+https://in.mathworks.com/help/thingspeak/write-image-to-thingspeak-from-raspberry-pi-with-python.html
+
+https://electronut.in/plotting-dht11-sensor-data-at-thingspeak-com-using-raspberry-pi-model-a/
